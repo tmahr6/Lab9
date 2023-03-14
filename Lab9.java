@@ -5,6 +5,6 @@ public class Lab9 {
         Scanner scnr = new Scanner(System.in);
         System.out.println("Happy Spring Break!");
         scnr.nextLine();
-
+        System.out.println("Thanks Evan, you too!");
     }
 }
