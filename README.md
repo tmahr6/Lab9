@@ -11,4 +11,5 @@ Here is how to do this assignment:
 <li>Merge the branch to main</li>
 <li>Push the changes to your code</li>
 <li>Submit to gradescope using GitHub</li>
+<li>Extra Credit, complete this whole tutorial and show one of the TAs: https://learngitbranching.js.org/</li>
 </ol>
