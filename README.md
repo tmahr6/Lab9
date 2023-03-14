@@ -6,7 +6,7 @@ Here is how to do this assignment:
 <li>Fork this repository</li>
 <li>Clone this repository to your computer</li>
 <li>Create a branch called Lab9</li>
-<li>Add a print statement that says "Thanks Evan, you too!"</li>
+<li>Add a print statement on line 8 that says "Thanks Evan, you too!"</li>
 <li>Add and commit the code</li>
 <li>Merge the branch to main</li>
 <li>Push the changes to your code</li>
